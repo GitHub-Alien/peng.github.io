@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Peng</title>
+  
+  
+  <link href="http://penull.com/atom.xml" rel="self"/>
+  
+  <link href="http://penull.com/"/>
+  <updated>2022-02-12T16:32:09.498Z</updated>
+  <id>http://penull.com/</id>
+  
+  <author>
+    <name>Peng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>此文作废</title>
+    <link href="http://penull.com/2022/02/11/hello-world/"/>
+    <id>http://penull.com/2022/02/11/hello-world/</id>
+    <published>2022-02-11T10:48:29.818Z</published>
+    <updated>2022-02-12T16:32:09.498Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一条测试哟(＾Ｕ＾)ノ~ＹＯ</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一条测试哟(＾Ｕ＾)ノ~ＹＯ&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
