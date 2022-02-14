@@ -6399,12 +6399,3 @@ blockquote.pullquote.right {
     max-height: 75vh !important;
   }
 }
-.recent-post-item {
-  background: #fff !important;
-}
-.post_cover {
-  filter: filter: none;;
-}
-.card-widget {
-  background: #fff !important;
-}
