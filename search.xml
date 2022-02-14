@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/2022/02/11/hello-world/"/>
+      <url>/2022/02/11/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>这是一条测试哟(＾Ｕ＾)ノ~ＹＯ</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
