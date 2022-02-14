@@ -3360,7 +3360,6 @@ h1.page-title + .tag-cloud-list {
 }
 #footer {
   position: relative;
-  background: #49b1f5;
   background-attachment: scroll;
   background-position: bottom;
   -webkit-background-size: cover;
@@ -6399,4 +6398,13 @@ blockquote.pullquote.right {
     padding-bottom: 40px;
     max-height: 75vh !important;
   }
+}
+.recent-post-item {
+  background: #fff !important;
+}
+.post_cover {
+  filter: filter: none;;
+}
+.card-widget {
+  background: #fff !important;
 }
