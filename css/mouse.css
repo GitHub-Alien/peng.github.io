@@ -1,0 +1,49 @@
+/*�����ʽ*/
+body,
+html {
+  cursor: url(https://cdn.jsdelivr.net/gh/zykjofficial/zykjresource@master/img/Arrow.cur),
+	auto !important;
+}
+
+a,
+img {
+  cursor: url(https://cdn.jsdelivr.net/gh/zykjofficial/zykjresource@master/img/link.cur),
+	auto !important;
+}
+
+/*a��ǩ*/
+a:hover {
+  cursor: url(https://cdn.jsdelivr.net/gh/zykjofficial/zykjresource@master/img/link.cur),
+	auto !important;
+}
+
+/*��ť*/
+button:hover {
+  cursor: url(https://cdn.jsdelivr.net/gh/zykjofficial/zykjresource@master/img/link.cur),
+	auto !important;
+}
+
+/*i��ǩ*/
+i:hover {
+  cursor: url(https://cdn.jsdelivr.net/gh/zykjofficial/zykjresource@master/img/link.cur),
+	auto !important;
+}
+
+/*ҳ��a��ǩ*/
+#footer-wrap a:hover {
+  cursor: url(https://cdn.jsdelivr.net/gh/zykjofficial/zykjresource@master/img/link.cur),
+	auto !important;
+}
+
+/*��ҳ��*/
+#pagination .page-number:hover {
+  cursor: url(https://cdn.jsdelivr.net/gh/zykjofficial/zykjresource@master/img/link.cur),
+	auto !important;
+}
+
+/*ͷ���ĵ�����*/
+#nav .site-page:hover {
+  cursor: url(https://cdn.jsdelivr.net/gh/zykjofficial/zykjresource@master/img/link.cur),
+	auto !important;
+}
+/*�����ʽEND*/
